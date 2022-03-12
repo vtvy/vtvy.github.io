@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f26b5c38.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f26b5c38.js.map": "/static/js/main.f26b5c38.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/www.trieuvy.cf/static/css/main.073c9b0a.css",
+    "main.js": "/www.trieuvy.cf/static/js/main.c9ad6e90.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/www.trieuvy.cf/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/www.trieuvy.cf/index.html",
+    "main.073c9b0a.css.map": "/www.trieuvy.cf/static/css/main.073c9b0a.css.map",
+    "main.c9ad6e90.js.map": "/www.trieuvy.cf/static/js/main.c9ad6e90.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/www.trieuvy.cf/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f26b5c38.js"
+    "static/js/main.c9ad6e90.js"
   ]
 }
